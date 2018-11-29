@@ -1,6 +1,5 @@
 <?php
 
-echo "hola github";
-echo "hola github nuevarama";
+echo "hola git hub desde nueva rama con merge";
 
 ?>
