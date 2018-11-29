@@ -1,6 +1,5 @@
 <?php
 
-echo "hola github";
-echo "hola github nuevarama";
+echo "hola github desde nuevarama";
 
 ?>
