@@ -1,5 +1,6 @@
 <?php
 
-echo"otro archivo desde ramanueva";
+echo"archivo desde ramanueva; yo he actualizado esta linea";
+echo "soy una nueva lines";
 
 ?>
